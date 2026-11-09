@@ -7,3 +7,5 @@ TEST ROCKET:
 
 https://github.com/user-attachments/assets/608ec208-cbbd-4d12-95fb-28351a638efd
 
+
+*`ThrustCurves.m` is only necessary for the full 2-stage rocket, not for the test rocket
