@@ -1,6 +1,8 @@
 Contains the MATLAB Simulink files for METRocketry Canards.
 
-TEST ROCKET:
+Aerodynamics modelled using equations from [OpenRocket Documentation](https://openrocket.sourceforge.net/techdoc.pdf).
+
+HOW TO RUN TEST ROCKET SIMS:
 1. Run `TestRocketSetup.m` (ensure you have the **Data folder** present in the root)
 2. Run `test_canards_sim.slx`
 
